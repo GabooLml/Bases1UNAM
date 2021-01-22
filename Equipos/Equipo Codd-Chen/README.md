@@ -1,5 +1,0 @@
--	Rojas Méndez Gabriel
--	Loperena Alcantara Marisol
--	Camacho de la O Gerardo
--	Morales González Luis Javier
--	Uriel Bernardo Castro Martínez
